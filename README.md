@@ -1,3 +1,26 @@
+## urdf_geometry_parser (melodic) - 0.0.3-0
+
+The packages in the `urdf_geometry_parser` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release --rosdistro melodic --track melodic urdf_geometry_parser` on `Fri, 06 Apr 2018 23:02:17 -0000`
+
+The `urdf_geometry_parser` package was released.
+
+Version of package(s) in repository `urdf_geometry_parser`:
+
+- upstream repository: https://github.com/ros-controls/urdf_geometry_parser.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## urdf_geometry_parser (lunar) - 0.0.3-0
 
 The packages in the `urdf_geometry_parser` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --track lunar --ros-distro lunar urdf_geometry_parser` on `Mon, 07 Aug 2017 10:55:53 -0000`
