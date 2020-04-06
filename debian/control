@@ -1,0 +1,12 @@
+Source: ros-noetic-urdf-geometry-parser
+Section: misc
+Priority: optional
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-roscpp, ros-noetic-rostest, ros-noetic-urdf, ros-noetic-xacro
+Homepage: http://ros.org/wiki/urdf_geometry_parser
+Standards-Version: 3.9.2
+
+Package: ros-noetic-urdf-geometry-parser
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-roscpp, ros-noetic-urdf
+Description: Extract geometry value of a vehicle from urdf.
