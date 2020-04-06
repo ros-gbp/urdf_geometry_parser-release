@@ -1,3 +1,26 @@
+## urdf_geometry_parser (kinetic) - 0.1.0-1
+
+The packages in the `urdf_geometry_parser` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic urdf_geometry_parser` on `Mon, 06 Apr 2020 06:27:06 -0000`
+
+The `urdf_geometry_parser` package was released.
+
+Version of package(s) in repository `urdf_geometry_parser`:
+
+- upstream repository: https://github.com/ros-controls/urdf_geometry_parser.git
+- release repository: https://github.com/ros-gbp/urdf_geometry_parser-release.git
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.3-0`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## urdf_geometry_parser (noetic) - 0.0.3-1
 
 The packages in the `urdf_geometry_parser` repository were released into the `noetic` distro by running `/usr/bin/bloom-release urdf_geometry_parser --track noetic --rosdistro noetic --edit` on `Wed, 11 Mar 2020 10:48:58 -0000`
