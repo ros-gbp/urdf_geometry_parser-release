@@ -1,0 +1,12 @@
+Source: ros-melodic-urdf-geometry-parser
+Section: misc
+Priority: optional
+Maintainer: Vincent Rousseau <vincent.rousseau@irstea.fr>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-roscpp, ros-melodic-rostest, ros-melodic-urdf, ros-melodic-xacro
+Homepage: http://ros.org/wiki/urdf_geometry_parser
+Standards-Version: 3.9.2
+
+Package: ros-melodic-urdf-geometry-parser
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-roscpp, ros-melodic-urdf
+Description: Extract geometry value of a vehicle from urdf.
